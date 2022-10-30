@@ -1,2 +1,1 @@
-# portfolio-decentralized-lottery-dapp
-My portfolio project: Decentralized Lottery Dapp
+# My portfolio project: Decentralized Lottery Dapp
